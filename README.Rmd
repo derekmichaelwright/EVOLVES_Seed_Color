@@ -1,0 +1,48 @@
+---
+title: "EVOLVES_Seed_Color"
+subtitle: "*Usask*. (2025)"
+author: "Derek Michael Wright <derek.wright@usask.ca>"
+date: "25-01-2025"
+output:
+  rmdformats::readthedown:
+    self_contained: no
+    lightbox: true
+    gallery: true
+    highlight: tango
+    css: custom.css
+  github_document: default
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = F, warning = F, comment = NA, out.width = "100%")
+```
+
+
+---
+
+> - https://github.com/derekmichaelwright/EVOLVES_Seed_Color
+> - [Source Code Vignette (EVOLVES_Vignette.html)](https://derekmichaelwright.github.io/EVOLVES_Seed_Color/EVOLVES_Vignette.html)
+
+# Contents
+
+- [Figures](#figures)
+
+---
+
+## Collaborators
+
+- Department of Plant Sciences and Crop Development Centre, University of Saskatchewan, Saskatoon, Saskatchewan, Canada
+
+## Sponsors
+
+- University of Saskatchewan
+
+---
+
+# Figures
+
+---
+
+&copy; Derek Michael Wright
